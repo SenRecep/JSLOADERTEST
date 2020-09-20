@@ -1,0 +1,1 @@
+$('#patates').text('loader test');
